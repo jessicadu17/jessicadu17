@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jessicadu17
-- 👀 I’m interested in ...learning all sort of computering lanauage 
+- 👀 I’m interested in ...learning all sort of skills
 - 🌱 I’m currently learning ...Python and SQL
-- 💞️ I’m looking to collaborate on ...any data analytics projects that will help me improve my skills
+- 💞️ I’m looking to collaborate on ...any data analytic projects that will help me improve my skills
 - 📫 How to reach me ... x5du@ryerson.ca
 
 <!---
